@@ -1,9 +1,9 @@
 ## ¡Hola! 👋, soy Alejandro de León
 
-Soy **Ingeniero Informático** actualmente estudiando un un máster en Inteligencia Artificial.
+Soy **Ingeniero Informático** con un máster en Inteligencia Artificial.
 
 ## Sobre mi
-Estudié el grado de Ingenieria Informática en la UAX de Madrid y para continuar con mi formación académica me encuentro estudiando un máster en Inteligencia Artificial. Tengo experiencia en el desarrollo Backend y destaco por mi proactividad y mi capacidad autodidacta. Mi objetivo es aportar valor a través del desarrollo de software eficiente y de alta calidad, contribuyendo al éxito de proyectos y equipos.
+Estudié el grado de Ingenieria Informática en la UAX de Madrid y poseo un máster en Inteligencia Artificial. Tengo experiencia en el desarrollo Backend y destaco por mi proactividad y mi capacidad autodidacta. Mi objetivo es aportar valor a través del desarrollo de software eficiente y de alta calidad, contribuyendo al éxito de proyectos y equipos.
 
 ## Tecnologías que uso
 <p align="center">
